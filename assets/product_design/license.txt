@@ -1,0 +1,11 @@
+Model Information:
+* title:	Product Design
+* source:	https://sketchfab.com/3d-models/product-design-5400540124214fe79f671edbb9ea8159
+* author:	jeilocreativedesignworld (https://sketchfab.com/jeilocreativedesignworld)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Product Design" (https://sketchfab.com/3d-models/product-design-5400540124214fe79f671edbb9ea8159) by jeilocreativedesignworld (https://sketchfab.com/jeilocreativedesignworld) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
